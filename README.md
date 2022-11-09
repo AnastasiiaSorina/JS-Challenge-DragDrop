@@ -1,7 +1,5 @@
 # JS-Challenge-DragDrop
 
-Task for the next week:
-
 Create 5 interesting works. For a [Portfolio project](https://github.com/AnastasiiaSorina/Portfolio-Project).
 - [x] [Cards](https://github.com/AnastasiiaSorina/JS-Challenge-Cards)
 - [x] [DragDrop](https://github.com/AnastasiiaSorina/JS-Challenge-DragDrop)
@@ -17,3 +15,8 @@ Technologies used:
 - Java Script
 
 Implemented the ability to drag the block to one of the three columns.
+
+Tasks for the coming weeks:
+- [ ] Slider 
+- [ ] Board
+- [ ] Game 
