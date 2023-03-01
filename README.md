@@ -8,7 +8,7 @@ Create 5 interesting works. For a [Portfolio project](https://github.com/Anastas
 - [x] [Game](https://github.com/AnastasiiaSorina/JS-Challenge-Game) 
 
 # Project 2 | DragDrop
-![Illustration for the project](https://github.com/AnastasiiaSorina/JS-Challenge-DragDrop/blob/main/IMG_4255.gif)
+![Illustration for the project](https://github.com/AnastasiiaSorina/JS-Challenge-DragDrop/blob/main/Project-2.gif)
 
 Technologies used:
 - HTML & CSS

@@ -6,7 +6,7 @@
 
 body {
   font-family: "Roboto", sans-serif;
-  background-color: #e5e5e5;
+  background-color: #E3EFF3;
   display: flex;
   padding-top: 5rem;
   justify-content: center;
@@ -35,9 +35,9 @@ body {
   border: 1px solid #eee;
   box-shadow: 4px 4px 9px rgba(198, 198, 198, 0.36);
   border-radius: 20px;
-  background: #f7f6f7;
+  background: #f5f9fa;
   padding: 0.8rem 1rem;
-  color: #828282;
+  color: #A7B7BB;
   text-align: center;
   cursor: grab;
 }
